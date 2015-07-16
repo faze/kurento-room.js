@@ -1,0 +1,34 @@
+{
+  "name": "kurento-room.js",
+  "description": "A front-end JavaScript library to interact with Kurento Room.",
+  "license": "LGPL 2.1",
+  "keywords": [
+    "js",
+    "kurento",
+    "kurento-room",
+    "kms",
+    "webrtc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "faze/kurento-room.js"
+  },
+  "authors": [
+    "Kurento <info@kurento.org> (http://kurento.org)",
+    "Joshua F. Rountree <joshua.rountree@faze.co> (https://faze.co)",
+    "Jesús Leganés Combarro 'piranna' <piranna@gmail.com>"
+  ],
+  "devDependencies": {
+    "adapter.js": "~0.1.6",
+    "eventEmitter": "~4.2.11",
+    "jquery": "~2.1.4",
+    "kurento-jsonrpc": "~5.0.5"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
