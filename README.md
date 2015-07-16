@@ -2,6 +2,11 @@
 
 A front-end JavaScript library to interact with Kurento Room.
 
+## Installation
+```bash
+bower install kurento-room.js
+```
+
 ## Development
 ```bash
 grunt # builds to dist/
